@@ -1,0 +1,4 @@
+<size=180><color=red>BAIT NOT LOADED ONTO SHIP!</color></size>
+<color=red><size=200>Hoistering the anchor...</size></color>
+<color=lime><size=180>Ready to attract the Kraken matey!</size></color>
+KRAKEN UNAVOIDABLE

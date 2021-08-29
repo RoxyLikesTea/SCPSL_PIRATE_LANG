@@ -1,0 +1,37 @@
+0~Bottom-Feeder dohickey
+1~Cartographer dohickey
+2~Research Supervisor Keycard
+3~Zone Manager Keycard
+4~Royal Guard Cabin Boy dohickey
+5~Royal Guard Gunner dohickey
+6~Containment Engineer Keycard
+7~Royal Guard First Mate dohickey
+8~Royal Guard Captain dohickey
+9~Facility Manager Keycard
+10~Chaos Insurgency Access Device
+11~O5-level Keycard
+12~Carrying Pidgeon
+13~Flint-Lock
+14~First Aid Kit~Heals your injuries.
+15~Flashlight~Let there be light!
+16~Cannon H.I.C~Mobile high-intensity cannon-ball shooter.
+17~Orange pills~Cures scurvy.
+18~Rum~Makes you incredibly drunk.
+20~Musket
+21~Crossvec
+23~FSP-9
+24~Logicer
+25~Grenado~Makeshift hand grenade containing glass and gunpowder.
+26~Flashbang Grenade~Blinds your enemies.
+30~COM-18
+31~SCP-018~Superball able to bounce with extreme efficiency.
+32~SCP-268~When worn, temporarily makes you invisible unless it is interrupted by any user interaction.
+33~Adrenaline~Temporarily increases endurance.
+34~Painkillers~Relieve minor injuries.
+35~Coin~You're not sure why you'd want to carry this around...
+36~Light Armor
+37~Combat Armor
+38~Heavy Armor
+39~.44 Revolver
+40~Somali Pirate Weapon
+41~Blunderbus

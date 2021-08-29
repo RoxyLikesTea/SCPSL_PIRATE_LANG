@@ -1,0 +1,17 @@
+Yar-har! The voyage is over!
+Sea Monsters 
+Royal Navy
+Bottom-feeders WON
+CEASEFIRE 
+Yar! The scallywags are responsible for sending [summary_scpfrags] crewmates to Davy Jones' Locker!
+Yar! The Royal Navy fought off the scallywags and Pirates!
+All Treasure Protectors have been terminated.
+Both sides have suffered losses and benefited greatly. The winner is undetermined.
+[summary_d_escaped] bottom-feeders escaped
+[summary_s_escaped] cartographers(s) survived
+The Kraken bait sent [summary_warhead_kills] scallywags to Davy Jones' Locker.
+The Kraken bait was not used this voyage.
+The voyage took [summary_round_minutes] minutes and [summary_round_seconds] seconds.
+[summary_scp_terminated] terminated SCPs
+next voyage in [summary_next_round_countdown] seconds.
+You have dealt [summary_damages] damage and killed [summary_kills] players.
